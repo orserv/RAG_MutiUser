@@ -1,0 +1,20 @@
+# Web Framework
+streamlit>=1.31.0
+
+# LangChain & AI Core
+langchain>=0.1.0
+langchain-core>=0.1.0
+langchain-community>=0.0.10
+langchain-openai>=0.0.5
+langchain-chroma>=0.1.0
+
+# Vector Database
+chromadb>=0.4.22
+
+# Redis & Data Storage
+redis>=5.0.0
+
+# Utilities
+python-dotenv>=1.0.0
+pydantic>=2.5.0
+tiktoken>=0.5.0
